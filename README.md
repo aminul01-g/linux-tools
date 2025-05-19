@@ -38,8 +38,8 @@ Whether you're formatting USB drives, setting up development environments, manag
 Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/linux-tools-for-ai-engineers.git
-cd linux-tools-for-ai-engineers
+git clone https://github.com/yourusername/linux-tools.git
+cd linux-tools
 ```
 
 Run any script:
